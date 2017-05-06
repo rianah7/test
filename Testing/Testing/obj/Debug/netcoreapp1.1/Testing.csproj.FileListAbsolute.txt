@@ -1,0 +1,9 @@
+E:\Facultate\test\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.deps.json
+E:\Facultate\test\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.runtimeconfig.json
+E:\Facultate\test\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.runtimeconfig.dev.json
+E:\Facultate\test\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.dll
+E:\Facultate\test\Testing\Testing\bin\Debug\netcoreapp1.1\Testing.pdb
+E:\Facultate\test\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.csprojResolveAssemblyReference.cache
+E:\Facultate\test\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.AssemblyInfo.cs
+E:\Facultate\test\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.dll
+E:\Facultate\test\Testing\Testing\obj\Debug\netcoreapp1.1\Testing.pdb
